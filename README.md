@@ -12,7 +12,4 @@ A crazy programmer
 ![](https://nirzak-streak-stats.vercel.app/?user=MadGriot&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadGriot&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MadGriot&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
